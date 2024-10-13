@@ -17,6 +17,7 @@ Tools :
 
 Langkah-langkah :
 1.	Jalankan command prompt dengan mode run as administrator.
+
 ![image](https://github.com/user-attachments/assets/0e99b291-cf96-47f3-bff7-ba8ac8dee00f)
 
 2.	Masukkan command prompt berikut untuk mengetahui nama pengguna dan UserIDs.
